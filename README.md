@@ -1,2 +1,1 @@
-# test
 Empty test repository
